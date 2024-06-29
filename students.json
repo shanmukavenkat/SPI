@@ -1,0 +1,3231 @@
+[
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cf9c"
+  },
+  "rollNo": "21BQ1A4201",
+  "section": "A",
+  "Name_of_the_Candidate": "A TRIBHUVAN",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cf9d"
+  },
+  "rollNo": "21BQ1A4202",
+  "section": "A",
+  "Name_of_the_Candidate": "ABBARAJU MANGALA LAKSHMI DEEPTHI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cf9e"
+  },
+  "rollNo": "21BQ1A4203",
+  "section": "A",
+  "Name_of_the_Candidate": "ACHI  VENKATA VIJAYA LAKSHMI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cf9f"
+  },
+  "rollNo": "21BQ1A4204",
+  "section": "A",
+  "Name_of_the_Candidate": "ADUSUMALLI TEJASWINI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfa0"
+  },
+  "rollNo": "21BQ1A4205",
+  "section": "A",
+  "Name_of_the_Candidate": "ALA BHARGAV SESHA SAI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfa1"
+  },
+  "rollNo": "21BQ1A4206",
+  "section": "A",
+  "Name_of_the_Candidate": "ALAPARTHI LAKSHMI NIHARIKA ",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfa2"
+  },
+  "rollNo": "21BQ1A4207",
+  "section": "A",
+  "Name_of_the_Candidate": "ALLA SURENDRA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfa3"
+  },
+  "rollNo": "21BQ1A4208",
+  "section": "A",
+  "Name_of_the_Candidate": "AMUDALAPALLI S N V S  KOMAL",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfa4"
+  },
+  "rollNo": "21BQ1A4209",
+  "section": "A",
+  "Name_of_the_Candidate": "ANNANGI ESWARA VARDHAN",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfa5"
+  },
+  "rollNo": "21BQ1A4210",
+  "section": "A",
+  "Name_of_the_Candidate": "BANDREDDI SARATH CHANDRA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfa6"
+  },
+  "rollNo": "21BQ1A4211",
+  "section": "A",
+  "Name_of_the_Candidate": "BAPANAPALLI ASHWANTH ",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfa7"
+  },
+  "rollNo": "21BQ1A4212",
+  "section": "A",
+  "Name_of_the_Candidate": "BELLAMKONDA NAGA SAI SANJAY",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfa8"
+  },
+  "rollNo": "21BQ1A4213",
+  "section": "A",
+  "Name_of_the_Candidate": "BHARGAVA DURGA PRASAD GAJULA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfa9"
+  },
+  "rollNo": "21BQ1A4214",
+  "section": "A",
+  "Name_of_the_Candidate": "BHAVANA MATTA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfaa"
+  },
+  "rollNo": "21BQ1A4215",
+  "section": "A",
+  "Name_of_the_Candidate": "BHEEMIREDDY VIGNESWAR REDDY",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfab"
+  },
+  "rollNo": "21BQ1A4216",
+  "section": "A",
+  "Name_of_the_Candidate": "BOGA MADHAVI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfac"
+  },
+  "rollNo": "21BQ1A4217",
+  "section": "A",
+  "Name_of_the_Candidate": "BOLIMERA DINESH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfad"
+  },
+  "rollNo": "21BQ1A4218",
+  "section": "A",
+  "Name_of_the_Candidate": "BOLLINENI SARASWATHI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfae"
+  },
+  "rollNo": "21BQ1A4219",
+  "section": "A",
+  "Name_of_the_Candidate": "BOMMINENI BALU",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfaf"
+  },
+  "rollNo": "21BQ1A4220",
+  "section": "A",
+  "Name_of_the_Candidate": "BONDILI LIKITH KIRAN SINGH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfb0"
+  },
+  "rollNo": "21BQ1A4221",
+  "section": "A",
+  "Name_of_the_Candidate": "BUDURI JYOTHI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfb1"
+  },
+  "rollNo": "21BQ1A4222",
+  "section": "A",
+  "Name_of_the_Candidate": "CHAGARLA LIKHITA SREE",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfb2"
+  },
+  "rollNo": "21BQ1A4223",
+  "section": "A",
+  "Name_of_the_Candidate": "CHAKRAVARTHULA V L R DIVYA SRI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfb3"
+  },
+  "rollNo": "21BQ1A4224",
+  "section": "A",
+  "Name_of_the_Candidate": "CHAPPIDI VISHNU TEJA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfb4"
+  },
+  "rollNo": "21BQ1A4225",
+  "section": "A",
+  "Name_of_the_Candidate": "CHENNURI HARI KRISHNA REDDY",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfb5"
+  },
+  "rollNo": "21BQ1A4226",
+  "section": "A",
+  "Name_of_the_Candidate": "CHILLAPALLI VARSHINI NAGA DURGA PAVANI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfb6"
+  },
+  "rollNo": "21BQ1A4227",
+  "section": "A",
+  "Name_of_the_Candidate": "CHIMATA KUSUMA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfb7"
+  },
+  "rollNo": "21BQ1A4228",
+  "section": "A",
+  "Name_of_the_Candidate": "CHINTHAGUNTA SRIHARI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfb8"
+  },
+  "rollNo": "21BQ1A4229",
+  "section": "A",
+  "Name_of_the_Candidate": "CHODABATHINI DEEPIKA ",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfb9"
+  },
+  "rollNo": "21BQ1A4230",
+  "section": "A",
+  "Name_of_the_Candidate": "CHOPPARA SAKETH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfba"
+  },
+  "rollNo": "21BQ1A4231",
+  "section": "A",
+  "Name_of_the_Candidate": "DAMIREDDY ANURADHA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfbb"
+  },
+  "rollNo": "21BQ1A4232",
+  "section": "A",
+  "Name_of_the_Candidate": "DANDA PRANAV KRISHNA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfbc"
+  },
+  "rollNo": "21BQ1A4233",
+  "section": "A",
+  "Name_of_the_Candidate": "DANDUGULA DEEPTHI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfbd"
+  },
+  "rollNo": "21BQ1A4234",
+  "section": "A",
+  "Name_of_the_Candidate": "DASARI ANAND BABU",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfbe"
+  },
+  "rollNo": "21BQ1A4235",
+  "section": "A",
+  "Name_of_the_Candidate": "DASARI MEENAKSHI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfbf"
+  },
+  "rollNo": "21BQ1A4236",
+  "section": "A",
+  "Name_of_the_Candidate": "DIDLA RAVI SHANKARA REDDY",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfc0"
+  },
+  "rollNo": "21BQ1A4237",
+  "section": "A",
+  "Name_of_the_Candidate": "DUGGIRALA CHANDRA SENA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfc1"
+  },
+  "rollNo": "21BQ1A4238",
+  "section": "A",
+  "Name_of_the_Candidate": "DURGAMEGHANA DARSI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfc2"
+  },
+  "rollNo": "21BQ1A4239",
+  "section": "A",
+  "Name_of_the_Candidate": "GADDIPATI KARTHEEK",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfc3"
+  },
+  "rollNo": "21BQ1A4240",
+  "section": "A",
+  "Name_of_the_Candidate": "GADELAVARTHI SASI KUMAR",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfc4"
+  },
+  "rollNo": "21BQ1A4241",
+  "section": "A",
+  "Name_of_the_Candidate": "GANJANABOINA HARSHA PAVAN TEJA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfc5"
+  },
+  "rollNo": "21BQ1A4242",
+  "section": "A",
+  "Name_of_the_Candidate": "GARIMIDI RAJESH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfc6"
+  },
+  "rollNo": "21BQ1A4243",
+  "section": "A",
+  "Name_of_the_Candidate": "GAVINI LALITHA SRI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfc7"
+  },
+  "rollNo": "21BQ1A4244",
+  "section": "A",
+  "Name_of_the_Candidate": "GIRISH KUMAR SURAPURAM",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfc8"
+  },
+  "rollNo": "21BQ1A4245",
+  "section": "A",
+  "Name_of_the_Candidate": "GODDANTI THIRUMALA NAGA LAKSHMANA SAI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfc9"
+  },
+  "rollNo": "21BQ1A4246",
+  "section": "A",
+  "Name_of_the_Candidate": "GORANTLA NARENDRA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfca"
+  },
+  "rollNo": "21BQ1A4247",
+  "section": "A",
+  "Name_of_the_Candidate": "sri nithya erasem",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfcb"
+  },
+  "rollNo": "21BQ1A4248",
+  "section": "A",
+  "Name_of_the_Candidate": "GUDI SANDHYA LAHARI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfcc"
+  },
+  "rollNo": "21BQ1A4249",
+  "section": "A",
+  "Name_of_the_Candidate": "GUDIKANDULA GNANA SAI NIKHITHA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfcd"
+  },
+  "rollNo": "21BQ1A4250",
+  "section": "A",
+  "Name_of_the_Candidate": "GUDIKANDULA PRAVALLIKA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfce"
+  },
+  "rollNo": "21BQ1A4251",
+  "section": "A",
+  "Name_of_the_Candidate": "GUDISE MANASA ",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfcf"
+  },
+  "rollNo": "21BQ1A4252",
+  "section": "A",
+  "Name_of_the_Candidate": "GUNTUPALLI GAYATHRI DURGA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfd0"
+  },
+  "rollNo": "21BQ1A4253",
+  "section": "A",
+  "Name_of_the_Candidate": "Haranath Raju Bhethalam",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfd1"
+  },
+  "rollNo": "21BQ1A4254",
+  "section": "A",
+  "Name_of_the_Candidate": "JAKKANA LEELA SATYA AJITH VARDHAN",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfd2"
+  },
+  "rollNo": "21BQ1A4255",
+  "section": "A",
+  "Name_of_the_Candidate": "Jonnalagadda Abhiram",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfd3"
+  },
+  "rollNo": "21BQ1A4256",
+  "section": "A",
+  "Name_of_the_Candidate": "K DURGA DEVI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfd4"
+  },
+  "rollNo": "21BQ1A4257",
+  "section": "A",
+  "Name_of_the_Candidate": "KAKUMANI LALITHA ",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfd5"
+  },
+  "rollNo": "21BQ1A4258",
+  "section": "A",
+  "Name_of_the_Candidate": "KAKUMANU ADITHYA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfd6"
+  },
+  "rollNo": "21BQ1A4259",
+  "section": "A",
+  "Name_of_the_Candidate": "KARRI NAVIN",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfd7"
+  },
+  "rollNo": "21BQ1A4260",
+  "section": "A",
+  "Name_of_the_Candidate": "JAYA KRISHNA MADAMANCHI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfd8"
+  },
+  "rollNo": "21BQ1A4261",
+  "section": "A",
+  "Name_of_the_Candidate": "SAMUDRALA V N R P KUNDANA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfd9"
+  },
+  "rollNo": "21BQ1A4262",
+  "section": "A",
+  "Name_of_the_Candidate": "TIRUMALAREDDY NISHITHA REDDY",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfda"
+  },
+  "rollNo": "21BQ1A4263",
+  "section": "A",
+  "Name_of_the_Candidate": "YELURI VENKATA RATNA KRISHNA SRI VAISHNAVI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfdb"
+  },
+  "rollNo": "21BQ1A4264",
+  "section": "B",
+  "Name_of_the_Candidate": "Anugolu Bhargava Venkat",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfdc"
+  },
+  "rollNo": "21BQ1A4265",
+  "section": "B",
+  "Name_of_the_Candidate": "ATLURI DISHYANTHI REDDY",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfdd"
+  },
+  "rollNo": "21BQ1A4266",
+  "section": "B",
+  "Name_of_the_Candidate": "CHAKRAVARAM SNEHALATHA RAJU",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfde"
+  },
+  "rollNo": "21BQ1A4267",
+  "section": "B",
+  "Name_of_the_Candidate": "GORREMUTCHU SAKETH JOSHI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfdf"
+  },
+  "rollNo": "21BQ1A4268",
+  "section": "B",
+  "Name_of_the_Candidate": "JASTI VENKATA TARUN",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfe0"
+  },
+  "rollNo": "21BQ1A4269",
+  "section": "B",
+  "Name_of_the_Candidate": "KALE NIHARIKA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfe1"
+  },
+  "rollNo": "21BQ1A4270",
+  "section": "B",
+  "Name_of_the_Candidate": "KALLAGUNTA VENKATA AKSHAY SUSVITH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfe2"
+  },
+  "rollNo": "21BQ1A4271",
+  "section": "B",
+  "Name_of_the_Candidate": "KAMAL VARDHAN CHEBROLU",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfe3"
+  },
+  "rollNo": "21BQ1A4272",
+  "section": "B",
+  "Name_of_the_Candidate": "Kamanaboina Kalyani",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfe4"
+  },
+  "rollNo": "21BQ1A4273",
+  "section": "B",
+  "Name_of_the_Candidate": "KAMBHAMPATI SUSMITHA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfe5"
+  },
+  "rollNo": "21BQ1A4274",
+  "section": "B",
+  "Name_of_the_Candidate": "KANUMURI VEERA SAI SINDHU",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfe6"
+  },
+  "rollNo": "21BQ1A4275",
+  "section": "B",
+  "Name_of_the_Candidate": "KAPA LOKNADH REDDY",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfe7"
+  },
+  "rollNo": "21BQ1A4276",
+  "section": "B",
+  "Name_of_the_Candidate": "Kapu Uma Sashank",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfe8"
+  },
+  "rollNo": "21BQ1A4277",
+  "section": "B",
+  "Name_of_the_Candidate": "KARANKI AMARENDRANADH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfe9"
+  },
+  "rollNo": "21BQ1A4278",
+  "section": "B",
+  "Name_of_the_Candidate": "KASUKURTHI BHAVYA SRI SAI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfea"
+  },
+  "rollNo": "21BQ1A4279",
+  "section": "B",
+  "Name_of_the_Candidate": "KATTA GOWRI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfeb"
+  },
+  "rollNo": "21BQ1A4280",
+  "section": "B",
+  "Name_of_the_Candidate": "KATTA LEELA DURGA SATYA ANJANI KUMAR",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfec"
+  },
+  "rollNo": "21BQ1A4281",
+  "section": "B",
+  "Name_of_the_Candidate": "KATTA PAVANI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfed"
+  },
+  "rollNo": "21BQ1A4282",
+  "section": "B",
+  "Name_of_the_Candidate": "KETHAVATH ANVESH NAIK",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfee"
+  },
+  "rollNo": "21BQ1A4283",
+  "section": "B",
+  "Name_of_the_Candidate": "KHUMBHA VENKAT KYATHI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfef"
+  },
+  "rollNo": "21BQ1A4284",
+  "section": "B",
+  "Name_of_the_Candidate": "KOLATI PRAISY JOY",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cff0"
+  },
+  "rollNo": "21BQ1A4285",
+  "section": "B",
+  "Name_of_the_Candidate": "KOMMA THARUN SAI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cff1"
+  },
+  "rollNo": "21BQ1A4286",
+  "section": "B",
+  "Name_of_the_Candidate": "KONGARA PAVAN KUMAR",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cff2"
+  },
+  "rollNo": "21BQ1A4287",
+  "section": "B",
+  "Name_of_the_Candidate": "KOPPOLU VYSHNAVI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cff3"
+  },
+  "rollNo": "21BQ1A4288",
+  "section": "B",
+  "Name_of_the_Candidate": "KOPPULA JAYADEEP",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cff4"
+  },
+  "rollNo": "21BQ1A4289",
+  "section": "B",
+  "Name_of_the_Candidate": "KORLAKANTI NANDINI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cff5"
+  },
+  "rollNo": "21BQ1A4290",
+  "section": "B",
+  "Name_of_the_Candidate": "KORUKOPPULA MOHANA PRIYA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cff6"
+  },
+  "rollNo": "21BQ1A4291",
+  "section": "B",
+  "Name_of_the_Candidate": "kothamasu yoshitha",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cff7"
+  },
+  "rollNo": "21BQ1A4292",
+  "section": "B",
+  "Name_of_the_Candidate": "KOTHURI SAI KUMAR",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cff8"
+  },
+  "rollNo": "21BQ1A4293",
+  "section": "B",
+  "Name_of_the_Candidate": "KOYI PRADEEP CHOUDARY",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cff9"
+  },
+  "rollNo": "21BQ1A4294",
+  "section": "B",
+  "Name_of_the_Candidate": "KUMMARI SRIHARI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cffa"
+  },
+  "rollNo": "21BQ1A4295",
+  "section": "B",
+  "Name_of_the_Candidate": "kundurthi shanmukha srinivasa praneeth",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cffb"
+  },
+  "rollNo": "21BQ1A4296",
+  "section": "B",
+  "Name_of_the_Candidate": "LANKA BHARGAVA RATNA SAI KUMAR",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cffc"
+  },
+  "rollNo": "21BQ1A4297",
+  "section": "B",
+  "Name_of_the_Candidate": "M TEJASWINI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cffd"
+  },
+  "rollNo": "21BQ1A4298",
+  "section": "B",
+  "Name_of_the_Candidate": "MADASU PRASANTH RAJU",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cffe"
+  },
+  "rollNo": "21BQ1A4299",
+  "section": "B",
+  "Name_of_the_Candidate": "MADIPALLI VARDHAN KUMAR",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35cfff"
+  },
+  "rollNo": "21BQ1A42A0",
+  "section": "B",
+  "Name_of_the_Candidate": "MAHAMMAD NIKHATH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d000"
+  },
+  "rollNo": "21BQ1A42A1",
+  "section": "B",
+  "Name_of_the_Candidate": "MAHIPATHI SIVA NAGA RAJU",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d001"
+  },
+  "rollNo": "21BQ1A42A2",
+  "section": "B",
+  "Name_of_the_Candidate": "MAJETI NIKITH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d002"
+  },
+  "rollNo": "21BQ1A42A3",
+  "section": "B",
+  "Name_of_the_Candidate": "MALINENI SWAPNA SRI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d003"
+  },
+  "rollNo": "21BQ1A42A4",
+  "section": "B",
+  "Name_of_the_Candidate": "MANCHALA LONY",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d004"
+  },
+  "rollNo": "21BQ1A42A5",
+  "section": "B",
+  "Name_of_the_Candidate": "MANCHALA NANDINI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d005"
+  },
+  "rollNo": "21BQ1A42A6",
+  "section": "B",
+  "Name_of_the_Candidate": "MANCHINEELLA SAI LOKESH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d006"
+  },
+  "rollNo": "21BQ1A42A7",
+  "section": "B",
+  "Name_of_the_Candidate": "Manikonda Lalitha Sindhura",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d007"
+  },
+  "rollNo": "21BQ1A42A8",
+  "section": "B",
+  "Name_of_the_Candidate": "MANNE BABY KAVYA SRI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d008"
+  },
+  "rollNo": "21BQ1A42A9",
+  "section": "B",
+  "Name_of_the_Candidate": "MAYAKUNTLA DILEEP KUMAR",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d009"
+  },
+  "rollNo": "21BQ1A42B0",
+  "section": "B",
+  "Name_of_the_Candidate": "MEDURI JYOTHSNA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d00a"
+  },
+  "rollNo": "21BQ1A42B1",
+  "section": "B",
+  "Name_of_the_Candidate": "MEKALA NAVYA MADHURI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d00b"
+  },
+  "rollNo": "21BQ1A42B2",
+  "section": "B",
+  "Name_of_the_Candidate": "MOHAMMAD ASHIQ NAWAJ",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d00c"
+  },
+  "rollNo": "21BQ1A42B3",
+  "section": "B",
+  "Name_of_the_Candidate": "MOHANA SANGEETHA AMARESWARAPU",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d00d"
+  },
+  "rollNo": "21BQ1A42B4",
+  "section": "B",
+  "Name_of_the_Candidate": "MULAKALA GOWTHAMI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d00e"
+  },
+  "rollNo": "21BQ1A42B5",
+  "section": "B",
+  "Name_of_the_Candidate": "MUPPARAJU KEERTHI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d00f"
+  },
+  "rollNo": "21BQ1A42B6",
+  "section": "B",
+  "Name_of_the_Candidate": "MUVVA PARASARA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d010"
+  },
+  "rollNo": "21BQ1A42B7",
+  "section": "B",
+  "Name_of_the_Candidate": "VAJJALA VENKATA PURNA SASANK",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d011"
+  },
+  "rollNo": "21BQ1A42B8",
+  "section": "B",
+  "Name_of_the_Candidate": "NAGIDI NAGENDRA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d012"
+  },
+  "rollNo": "21BQ1A42B9",
+  "section": "B",
+  "Name_of_the_Candidate": "BENARJEE CHOWDARY NALLURI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d013"
+  },
+  "rollNo": "21BQ1A42C0",
+  "section": "B",
+  "Name_of_the_Candidate": "NAMBULA VEERENDRA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d014"
+  },
+  "rollNo": "21BQ1A42C1",
+  "section": "B",
+  "Name_of_the_Candidate": "NAMBURU DIVYA SAI SRUJANA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d015"
+  },
+  "rollNo": "21BQ1A42C2",
+  "section": "B",
+  "Name_of_the_Candidate": "Panthangi Venkata Lokesh",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d016"
+  },
+  "rollNo": "21BQ1A42C3",
+  "section": "B",
+  "Name_of_the_Candidate": "TIRAMDASU VARUN SRI HARSHA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d017"
+  },
+  "rollNo": "21BQ1A42C4",
+  "section": "B",
+  "Name_of_the_Candidate": "V ADILAKSHMI SRAVYA VUTUKURI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d018"
+  },
+  "rollNo": "21BQ1A42C5",
+  "section": "B",
+  "Name_of_the_Candidate": "JEERU YESHWANTH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d019"
+  },
+  "rollNo": "21BQ1A42C6",
+  "section": "C",
+  "Name_of_the_Candidate": "KAKANI GANESH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d01a"
+  },
+  "rollNo": "21BQ1A42C7",
+  "section": "C",
+  "Name_of_the_Candidate": "KONATHAM AVINASH REDDY",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d01b"
+  },
+  "rollNo": "21BQ1A42C8",
+  "section": "C",
+  "Name_of_the_Candidate": "KURRI GOVINDA REDDY",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d01c"
+  },
+  "rollNo": "21BQ1A42C9",
+  "section": "C",
+  "Name_of_the_Candidate": "MEKALA SRUTHI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d01d"
+  },
+  "rollNo": "21BQ1A42D0",
+  "section": "C",
+  "Name_of_the_Candidate": "MERAKANAPALLI RAVI TEJA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d01e"
+  },
+  "rollNo": "21BQ1A42D1",
+  "section": "C",
+  "Name_of_the_Candidate": "MIRIYALA KIRANMAI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d01f"
+  },
+  "rollNo": "21BQ1A42D2",
+  "section": "C",
+  "Name_of_the_Candidate": "NANDIGAMA KARTIKEYA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d020"
+  },
+  "rollNo": "21BQ1A42D3",
+  "section": "C",
+  "Name_of_the_Candidate": "NARRA PURANDHESWARI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d021"
+  },
+  "rollNo": "21BQ1A42D4",
+  "section": "C",
+  "Name_of_the_Candidate": "NUNNA ANIRUDH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d022"
+  },
+  "rollNo": "21BQ1A42D5",
+  "section": "C",
+  "Name_of_the_Candidate": "PADARTHI SNEHAL KUMAR",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d023"
+  },
+  "rollNo": "21BQ1A42D6",
+  "section": "C",
+  "Name_of_the_Candidate": "PALAKALURI MAHESH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d024"
+  },
+  "rollNo": "21BQ1A42D7",
+  "section": "C",
+  "Name_of_the_Candidate": "PALERU ANUDEEP",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d025"
+  },
+  "rollNo": "21BQ1A42D8",
+  "section": "C",
+  "Name_of_the_Candidate": "PARUCHURI NAGA SAI RUTHWIK",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d026"
+  },
+  "rollNo": "21BQ1A42D9",
+  "section": "C",
+  "Name_of_the_Candidate": "PATAN NAGUR KHAN SOHAIL",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d027"
+  },
+  "rollNo": "21BQ1A42E0",
+  "section": "C",
+  "Name_of_the_Candidate": "PATHI NAGA LAKSHMI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d028"
+  },
+  "rollNo": "21BQ1A42E1",
+  "section": "C",
+  "Name_of_the_Candidate": "PATTEM GEEPTHIKA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d029"
+  },
+  "rollNo": "21BQ1A42E2",
+  "section": "C",
+  "Name_of_the_Candidate": "PENDELA VENKATA SUBRAMANYAM",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d02a"
+  },
+  "rollNo": "21BQ1A42E3",
+  "section": "C",
+  "Name_of_the_Candidate": "PENUBOTHU MENAJA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d02b"
+  },
+  "rollNo": "21BQ1A42E4",
+  "section": "C",
+  "Name_of_the_Candidate": "PODILA SAI NIHARIKA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d02c"
+  },
+  "rollNo": "21BQ1A42E5",
+  "section": "C",
+  "Name_of_the_Candidate": "POPURI RISHITHA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d02d"
+  },
+  "rollNo": "21BQ1A42E6",
+  "section": "C",
+  "Name_of_the_Candidate": "POPURI SRUTHI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d02e"
+  },
+  "rollNo": "21BQ1A42E7",
+  "section": "C",
+  "Name_of_the_Candidate": "PoRANKI SIVA SMRUTHI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d02f"
+  },
+  "rollNo": "21BQ1A42E8",
+  "section": "C",
+  "Name_of_the_Candidate": "PULI SHESANK",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d030"
+  },
+  "rollNo": "21BQ1A42E9",
+  "section": "C",
+  "Name_of_the_Candidate": "PUVVADA VENKATA SIVA SATYA SAI KUMAR",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d031"
+  },
+  "rollNo": "21BQ1A42F0",
+  "section": "C",
+  "Name_of_the_Candidate": "RAAVI CHANDU",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d032"
+  },
+  "rollNo": "21BQ1A42F1",
+  "section": "C",
+  "Name_of_the_Candidate": "RALLABANDI PAVAN KUMAR",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d033"
+  },
+  "rollNo": "21BQ1A42F2",
+  "section": "C",
+  "Name_of_the_Candidate": "RAVIPATI VENKATA SAHITHYA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d034"
+  },
+  "rollNo": "21BQ1A42F3",
+  "section": "C",
+  "Name_of_the_Candidate": "RITHIKA EDARA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d035"
+  },
+  "rollNo": "21BQ1A42F4",
+  "section": "C",
+  "Name_of_the_Candidate": "SAMBASIVARAO PRATHIPATI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d036"
+  },
+  "rollNo": "21BQ1A42F5",
+  "section": "C",
+  "Name_of_the_Candidate": "SANALA BALA SREE VARSHA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d037"
+  },
+  "rollNo": "21BQ1A42F6",
+  "section": "C",
+  "Name_of_the_Candidate": "SANGISETTY DEEPIKA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d038"
+  },
+  "rollNo": "21BQ1A42F7",
+  "section": "C",
+  "Name_of_the_Candidate": "SANKURATRI SREE",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d039"
+  },
+  "rollNo": "21BQ1A42F8",
+  "section": "C",
+  "Name_of_the_Candidate": "SATHIRI VYSHNAVI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d03a"
+  },
+  "rollNo": "21BQ1A42F9",
+  "section": "C",
+  "Name_of_the_Candidate": "SHAIK AASHAQ BASHA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d03b"
+  },
+  "rollNo": "21BQ1A42G0",
+  "section": "C",
+  "Name_of_the_Candidate": "SHAIK AFRIN",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d03c"
+  },
+  "rollNo": "21BQ1A42G1",
+  "section": "C",
+  "Name_of_the_Candidate": "SHAIK CHARISHMA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d03d"
+  },
+  "rollNo": "21BQ1A42G2",
+  "section": "C",
+  "Name_of_the_Candidate": "SHAIK KHADEER",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d03e"
+  },
+  "rollNo": "21BQ1A42G3",
+  "section": "C",
+  "Name_of_the_Candidate": "SHAIK SAFILEEN",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d03f"
+  },
+  "rollNo": "21BQ1A42G4",
+  "section": "C",
+  "Name_of_the_Candidate": "SHAIK USHMAN BASHA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d040"
+  },
+  "rollNo": "21BQ1A42G5",
+  "section": "C",
+  "Name_of_the_Candidate": "SIKHAKOLLI HARI SAI SUSMITHA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d041"
+  },
+  "rollNo": "21BQ1A42G6",
+  "section": "C",
+  "Name_of_the_Candidate": "SOMU NANDINI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d042"
+  },
+  "rollNo": "21BQ1A42G7",
+  "section": "C",
+  "Name_of_the_Candidate": "SRUNGARAPATI DEEPIKA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d043"
+  },
+  "rollNo": "21BQ1A42G8",
+  "section": "C",
+  "Name_of_the_Candidate": "SURASURA AVINASH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d044"
+  },
+  "rollNo": "21BQ1A42G9",
+  "section": "C",
+  "Name_of_the_Candidate": "SWARGAM GAYATHRI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d045"
+  },
+  "rollNo": "21BQ1A42H0",
+  "section": "C",
+  "Name_of_the_Candidate": "SYAMALA VISHNU VARDHAN REDDY",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d046"
+  },
+  "rollNo": "21BQ1A42H1",
+  "section": "C",
+  "Name_of_the_Candidate": "TALLAPANENI LAKSHMI PREETHI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d047"
+  },
+  "rollNo": "21BQ1A42H2",
+  "section": "C",
+  "Name_of_the_Candidate": "TARRA CHARAN SAI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d048"
+  },
+  "rollNo": "21BQ1A42H3",
+  "section": "C",
+  "Name_of_the_Candidate": "THELLA VARSHITHA CHOWDARY",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d049"
+  },
+  "rollNo": "21BQ1A42H4",
+  "section": "C",
+  "Name_of_the_Candidate": "THOTA POOJITHA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d04a"
+  },
+  "rollNo": "21BQ1A42H5",
+  "section": "C",
+  "Name_of_the_Candidate": "TIRUVEEDHULA NITHISH KUMAR",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d04b"
+  },
+  "rollNo": "21BQ1A42H6",
+  "section": "C",
+  "Name_of_the_Candidate": "VALLURI YOGESH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d04c"
+  },
+  "rollNo": "21BQ1A42H7",
+  "section": "C",
+  "Name_of_the_Candidate": "VANKAYALA HEMA HARSHINI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d04d"
+  },
+  "rollNo": "21BQ1A42H8",
+  "section": "C",
+  "Name_of_the_Candidate": "VATALA GOPI KRISHNA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d04e"
+  },
+  "rollNo": "21BQ1A42H9",
+  "section": "C",
+  "Name_of_the_Candidate": "VEGI CHARAN SAI VENKAT",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d04f"
+  },
+  "rollNo": "21BQ1A42I0",
+  "section": "C",
+  "Name_of_the_Candidate": "VEMURI MAHESH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d050"
+  },
+  "rollNo": "21BQ1A42I1",
+  "section": "C",
+  "Name_of_the_Candidate": "VUHA CHANDRIKA IPPALA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d051"
+  },
+  "rollNo": "21BQ1A42I2",
+  "section": "C",
+  "Name_of_the_Candidate": "YADDANAPUDI BINDU VARSHA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d052"
+  },
+  "rollNo": "21BQ1A42I3",
+  "section": "C",
+  "Name_of_the_Candidate": "YAPARTHI VYSHNAVI",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d053"
+  },
+  "rollNo": "21BQ1A42I4",
+  "section": "C",
+  "Name_of_the_Candidate": "YARAGALLA CHAITANYA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d054"
+  },
+  "rollNo": "21BQ1A42I5",
+  "section": "C",
+  "Name_of_the_Candidate": "YARAGALLA PRAVEEN RAJ",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d055"
+  },
+  "rollNo": "21BQ1A42I6",
+  "section": "C",
+  "Name_of_the_Candidate": "YELCHURI NIHITH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d056"
+  },
+  "rollNo": "21BQ1A42I7",
+  "section": "C",
+  "Name_of_the_Candidate": "CHALLA SRISHANTH",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d057"
+  },
+  "rollNo": "21BQ1A42I8",
+  "section": "C",
+  "Name_of_the_Candidate": "MALLAVARAPU HARI SATHVIK",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d058"
+  },
+  "rollNo": "21BQ1A42I9",
+  "section": "C",
+  "Name_of_the_Candidate": "CHADALAVADA MANIKANTA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+},
+{
+  "_id": {
+    "$oid": "665019f16690855f3d35d059"
+  },
+  "rollNo": "21BQ1A42J0",
+  "section": "C",
+  "Name_of_the_Candidate": "ALISETTY SAI HARSHA",
+  "branch": "CSM",
+  "first_year_SGPA(1)": "9.32",
+  "first_year_SGPA(2)": "8.32",
+  "second_year_SGPA(1)": "8.01",
+  "second_year_SGPA(2)": "9.01",
+  "third_year_SGPA(1)": "9.55",
+  "third_year_SGPA(2)": "9.55",
+  "fourth_year_SGPA(1)": "8.43",
+  "fourth_year_SGPA(2)": "9.83"
+}]

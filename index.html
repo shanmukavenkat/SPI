@@ -84,7 +84,7 @@
 
         const studentData = await fetchStudentData();
 
-        // Find student by roll number or name
+        // Find student by roll number  or name
         const student = studentData.find(s =>
             s.rollNo.toLowerCase().includes(searchQuery) ||
             s.Name_of_the_Candidate.toLowerCase().includes(searchQuery)
